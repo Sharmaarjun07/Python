@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 24 16:02:14 2024
+
+@author: HP
+"""
+
+print("hello")
+hi
